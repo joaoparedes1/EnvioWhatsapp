@@ -1,2 +1,2 @@
 # EnvioWhatsapp
-Envio de mensagens do WhatsApp pelo aplicativo
+Android app that sends a a Whatsapp direct message
